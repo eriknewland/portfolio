@@ -3,6 +3,17 @@
   text-transform: uppercase;
   letter-spacing: 3px;
   text-align: center;
+  white-space: nowrap;
+  @include respond(phone) {
+    font-size: 4.5rem;
+  }
+}
+
+.project-primary {
+  font-size: 6rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-align: center;
   @include respond(phone) {
     font-size: 4.5rem;
   }
