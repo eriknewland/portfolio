@@ -437,11 +437,11 @@
         const form = document.getElementById("contact-form");
 
         const templateParams = {
-          name: form.name.value,
-          email: form.email.value,
+          user_name: form.name.value,
+          user_email: form.email.value,
           message: form.message.value,
         };
-
+        console.log(templateParams)
         try {
           const response = await emailjs.send("service_glh43la", "template_hpqlutn", templateParams);
           console.log("Email sent successfully!", response);
