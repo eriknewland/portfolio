@@ -16,11 +16,11 @@
 
 <br/>
 
-## ( Update ): Project Achievement 🏆 
+## ( Update ): Project Achievement 🏆
 
 **Dopefolio** has been listed as the **Hottest Frontend Tool of 2021** According to **CSS Tricks** 🥳. Thanks to all of you for supporting this project 🙌
 
-**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**   
+**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**
 
 <br/>
 
@@ -51,14 +51,14 @@ I do need **support** from amazing people like you as I started posting on **[My
 
 ## Features
 
-- ### **Easy to Setup 💯** 
-- ### **Free to Use ( OpenSource ) 🥳** 
-- ### **No Additional Frameworks 🤘** 
-- ### **No Additional Libraries 🙌** 
-- ### **Multi Page 💎** 
-- ### **Fully Responsive 🚀** 
-- ### **Super Fast and Optimized for SEO ⚡** 
-- ### **Great Audits Score 🎖️** 
+- ### **Easy to Setup 💯**
+- ### **Free to Use ( OpenSource ) 🥳**
+- ### **No Additional Frameworks 🤘**
+- ### **No Additional Libraries 🙌**
+- ### **Multi Page 💎**
+- ### **Fully Responsive 🚀**
+- ### **Super Fast and Optimized for SEO ⚡**
+- ### **Great Audits Score 🎖️**
 
 <img src="https://i.ibb.co/1dD8Mky/Screenshot-from-2021-08-28-14-38-30.png" alt="Dopefolio Audits" width="100%" />
 
@@ -172,7 +172,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
       <div class="header__logo-img-cont">
         <img
           src="./assets/png/john-doe.png"
-          alt="Ram Maheshwari Logo Image"
+          alt="Erik Newland Logo image"
           class="header__logo-img"
         />
       </div>
@@ -783,11 +783,11 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**  
+- **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**
 
 <br>
 
-#### Note: 
+#### Note:
 I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my email id **rammcodes@gmail.com** 🙌
 
 
